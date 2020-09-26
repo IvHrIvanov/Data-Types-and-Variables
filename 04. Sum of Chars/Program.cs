@@ -8,18 +8,19 @@ namespace _04._Sum_of_Chars
         {
 
             int input = int.Parse(Console.ReadLine());
-            
+
 
             int totalSum = 0;
 
             for (int i = 0; i < input; i++)
             {
+                int a = 0;
                 string lines = Console.ReadLine();
-                totalSum += lines[i];
+                totalSum += lines[a];
 
             }
 
-            Console.WriteLine($"The sum equels: {totalSum}");
+            Console.WriteLine($"The sum equals: {totalSum}");
         }
     }
 }

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Integer operation", "01. Integer operation\01. Integer operation.csproj", "{9BCB4340-251E-4FA1-A8B7-747F128DD36B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Integer operation", "01. Integer operation\01. Integer operation.csproj", "{9BCB4340-251E-4FA1-A8B7-747F128DD36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Digits", "02. Sum Digits\02. Sum Digits.csproj", "{892F8268-CB0A-420A-8989-184D6B852E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sum Digits", "02. Sum Digits\02. Sum Digits.csproj", "{892F8268-CB0A-420A-8989-184D6B852E50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Elevator", "03. Elevator\03. Elevator.csproj", "{CEC3499E-F762-4BD7-A7DA-EC625BB175C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Elevator", "03. Elevator\03. Elevator.csproj", "{CEC3499E-F762-4BD7-A7DA-EC625BB175C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Chars", "04. Sum of Chars\04. Sum of Chars.csproj", "{ACAE09BE-3343-42C0-B204-5F4A3EF412C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Sum of Chars", "04. Sum of Chars\04. Sum of Chars.csproj", "{ACAE09BE-3343-42C0-B204-5F4A3EF412C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Part Of ASCII Table", "05. Print Part Of ASCII Table\05. Print Part Of ASCII Table.csproj", "{8E1E6326-8AF1-4F41-BBEB-B928B1EB618F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ACAE09BE-3343-42C0-B204-5F4A3EF412C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAE09BE-3343-42C0-B204-5F4A3EF412C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAE09BE-3343-42C0-B204-5F4A3EF412C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E6326-8AF1-4F41-BBEB-B928B1EB618F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E6326-8AF1-4F41-BBEB-B928B1EB618F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E6326-8AF1-4F41-BBEB-B928B1EB618F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E6326-8AF1-4F41-BBEB-B928B1EB618F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
