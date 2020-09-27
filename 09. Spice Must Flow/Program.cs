@@ -9,8 +9,7 @@ namespace _09._Spice_Must_Flow
             int spicy = int.Parse(Console.ReadLine());
 
             int workersConsume = 0;
-            int days = 0;
-            
+            int days = 0;          
 
             while (spicy >= 100)
             {
@@ -19,8 +18,10 @@ namespace _09._Spice_Must_Flow
                 workersConsume -= 26;                
                 spicy -= 10;              
             }
+
             if (workersConsume >= 26)
             {
+
                 workersConsume -= 26;
 
             }
